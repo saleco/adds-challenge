@@ -16,6 +16,7 @@ You can now access Discovery Server on http://localhost:8761
 
 #Public Service Up and Running
 ##You will be running two instances of the public service (Load Balancer)
+
 `cd public-server `
 
 `mvn clean install`
@@ -26,6 +27,7 @@ You can now access Discovery Server on http://localhost:8761
 
 #Subscription Service Up and Running
 ##You will be running two instances of the subscription service (Load Balancer)
+
 `cd subscription-server `
 
 `mvn clean install`
