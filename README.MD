@@ -1,6 +1,7 @@
 # Coding Challenge
 ## 1. Instructions to run the microservices 
-###Unfortunately there was no time for securing micro services and unit testing
+
+
 Clone challenge code repository
 `git clone https://github.com/saleco/adds-challenge`
 
