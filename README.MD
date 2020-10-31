@@ -1,4 +1,4 @@
-# Adidas Coding Challenge
+# Coding Challenge
 ## 1. Instructions to run the microservices 
 ###Unfortunately there was no time for securing micro services and unit testing
 Clone challenge code repository
